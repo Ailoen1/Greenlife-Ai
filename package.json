@@ -2,6 +2,9 @@
   "name": "greenlife-ai",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.0",
     "chart.js": "^4.0.0",
